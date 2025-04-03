@@ -9,3 +9,7 @@ body {
 .task-list{
     
 }
+
+.task-list-item{
+    border-left: 4px blue solid;
+}
